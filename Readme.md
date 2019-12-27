@@ -13,7 +13,15 @@ Feel free to contribute!
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
 
+# Table of Contents
 
+### Hardware
+* vSAN
+* Dell EMC/PowerVault
+* HP
+
+
+### Software
 * [Download utilities](#download-utilities)
   * [Web Archiving](#web-archiving)
   * [General](#general)
