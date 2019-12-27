@@ -3,7 +3,7 @@ Feel free to contribute!
 
 
 
-> *This Awesome Repository is highly inspired from [n1trux](https://github.com/n1trux) [Awesome SysAdmin](https://github.com/n1trux/awesome-sysadmin)*
+> *This Awesome Repository is highly inspired from [n1trux](https://github.com/n1trux) fantastic tools list: [Awesome SysAdmin](https://github.com/n1trux/awesome-sysadmin)*
 > *Special thanks to [-Archivist](https://www.reddit.com/user/-Archivist/) and all the Mods and loyal members of [/r/DataHoarder](https://www.reddit.com/r/DataHoarder/).*
 
 > *Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
